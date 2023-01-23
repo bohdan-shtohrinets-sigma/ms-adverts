@@ -77,7 +77,7 @@
     "testEnvironment": "node"
   },
   "lint-staged": {
-    "src/**/*.{ts}": [
+    "src/**/*.ts": [
       "yarn format",
       "yarn lint"
     ]
